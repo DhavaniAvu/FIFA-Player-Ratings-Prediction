@@ -29,6 +29,7 @@ The project utilizes a range of techniques to analyze the dataset:
 
 ## Results and Insights:
 The analysis provided several key insights:
+
 **Key Influencers:** Identified important attributes affecting player ratings, such as position, skill attributes, and age.
 
 **Predictive Modeling:** Developed highly accurate models for predicting player transfer values and ratings, illustrating the impact of various attributes.
