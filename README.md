@@ -30,6 +30,9 @@ The project utilizes a range of techniques to analyze the dataset:
 ## Results and Insights:
 The analysis provided several key insights:
 **Key Influencers:** Identified important attributes affecting player ratings, such as position, skill attributes, and age.
+
 **Predictive Modeling:** Developed highly accurate models for predicting player transfer values and ratings, illustrating the impact of various attributes.
+
 **Position and League Analysis:** Found significant differences in attributes across positions and leagues that affect overall performance metrics.
+
 **Principal Components:** PCA identified critical features contributing most to player ratings, facilitating future analyses.
